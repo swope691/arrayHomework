@@ -1,4 +1,4 @@
-const musketeers = ["Athos", "Porthos", "Aramis"]
+/*const musketeers = ["Athos", "Porthos", "Aramis"]
 
 for (i = 0; i < musketeers.length; i++){
     console.log(musketeers[i])
@@ -18,3 +18,10 @@ let ofMusketeers
 for (ofMusketeers of musketeers){
     console.log(ofMusketeers);
 }
+*/
+
+const values = [3, 11, 7, 2, 9, 10];
+let sum = 0
+
+for (i = 0; i = values.length; i++){
+    sum+= values[i]}
